@@ -50,7 +50,7 @@
 
 2. 配置 RELEASE 环境
 
-   ![release 配置](Screenshot/Release 配置.png)
+   ![配置](Screenshot/Release 配置.png)
 
 3. 设置填写隐藏配置
 
